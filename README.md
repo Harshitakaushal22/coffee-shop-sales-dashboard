@@ -1,59 +1,71 @@
 📊 Coffee Shop Sales Dashboard (Excel)
 
-This repository contains a complete Excel-based Business Intelligence Dashboard designed to analyze Coffee Shop Sales, Footfall, and Product Performance.
-It is fully interactive, includes slicers (Day, Month), and provides visual insights for better business decision-making.
+This repository contains a complete Excel Interactive Dashboard analyzing Coffee Shop Sales, including footfall trends, category-wise performance, weekday patterns, and product insights.
+
+The project demonstrates skills in:
+✔ Data cleaning
+✔ Pivot tables
+✔ Charts & visualization
+✔ Dashboard design
+✔ Slicers (Day & Month filters)
 
 🖼 Dashboard Preview
+![Dashboard Preview](Dasboard.png)
 
-📁 Repository Structure
+📁 Folder Structure
 Coffee-Shop-Sales-Dashboard/
 │
-├── Dashboard.xlsx        # Interactive Excel dashboard
-├── Dashboard.png         # Screenshot of the dashboard
-├── RawData.csv           #  Dataset used for analysis
-└── README.md             # Project documentation
+├── Coffee.xlsx                # Main Excel dashboard (final version)
+├── Dasboard.png              # Screenshot/image used in README
+├── Dashboard working.mp4     # Short video showing dashboard workflow
+└── Raw Dataset.xlsx          # Dataset used to build the dashboard
 
-🔍 Key Insights Provided
-✔ Overall Metrics
+🔍 Dashboard Highlights
+✔ Overall KPIs
 Total Sales: ₹6,98,812.33
 Footfall: 149,116
 Average Bill Value: ₹4.68
 
-✔ Visualizations Included
+✔ Key Visuals Included
 Quantity sold by hour
-Footfall comparison across stores
-Category-wise sales distribution
-Weekday order trends
+Footfall comparison by store location
+Category distribution
+Sales by product
+Weekday order distribution
+Size distribution (Small / Medium / Large)
 Top 5 products based on sales
-Size distribution of beverages
-Total sale by product category
 
 🛠 Tools & Techniques Used
 Microsoft Excel
 Pivot Tables
 Pivot Charts
+Data Validation
 Slicers (Day, Month)
-Conditional Formatting
-Data Cleaning & Transformation
-Data Visualization
-Dashboard Designing
+Chart formatting
+Data Cleaning & Preparation
+Dashboard Storytelling
 
-🎯 Objective
-To create a visually appealing and analytics-driven dashboard that helps understand:
-Peak sales hours
-Best-selling products
-High-performing store locations
-Customer preferences by size & category
+🎯 Project Objective
+To build a dynamic dashboard that helps business stakeholders understand:
+Hourly & daily performance
+Product & category demand
+Store-wise footfall patterns
+Peak business timings
+Customer preferences
 
-🚀 How to Use
-Download Dashboard.xlsx
-Open in Microsoft Excel (2016 or later recommended)
-Use slicers to filter by Day or Month
-View updated charts and insights instantly
+🚀 How to Use This Dashboard
+Download Coffee.xlsx
+Open in Excel 2016 or later
+Use the Day and Month slicers to filter data
+Explore the automatically updating visualizations
 
-👩‍💻 Author
+🎥 Demo Video
+The file Dashboard working.mp4 contains a quick walk-through of the dashboard.
+
+👤 Author
 Harshita Kaushal
-Data Analyst | Excel | Power BI | SQL | Python | Machine Learning
+Data Analyst | Excel | SQL | Power BI | Python | Machine Learning
 
-⭐ Like This Project?
-If you found this dashboard helpful, feel free to star ⭐ the repository on GitHub!
+⭐ Support This Repository
+
+If you found this dashboard helpful, please star ⭐ the repo on GitHub!
