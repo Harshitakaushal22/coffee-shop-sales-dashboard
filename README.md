@@ -9,9 +9,6 @@ The project demonstrates skills in:
 ✔ Dashboard design
 ✔ Slicers (Day & Month filters)
 
-🖼 Dashboard Preview
-![Dashboard Preview](Dasboard.png)
-
 📁 Folder Structure
 Coffee-Shop-Sales-Dashboard/
 │
